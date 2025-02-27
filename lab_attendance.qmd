@@ -1,0 +1,8 @@
+---
+title: "Lab Attendance"
+format: html
+editor: visual
+author: Sammy Tetrault
+---
+
+##I've learned how to use dplyr verbs to manipulate and organize data
